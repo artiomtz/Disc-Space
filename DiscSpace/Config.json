@@ -1,0 +1,9 @@
+{
+    "NotifyTo":[
+        "email1@email.com",
+        "email2@email.com"
+    ],
+    "NotifyIfFreeSpaceLessThan" : "10GB", //Support GB and MB here if any other value provided switch to 10GB by default
+    "DelayBetweenTwoNotificationInHours": 4,
+    "LastNotificationSentTime" : "2020-09-01 01:00:00 PM" //Code will update this after sending notification
+}
